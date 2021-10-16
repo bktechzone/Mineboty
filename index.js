@@ -1,4 +1,4 @@
-const {mineboty, online, pvp} = require("mineboty")
+const {mineboty, online} = require("mineboty")
 mineboty();
 online();
-pvp();
+
