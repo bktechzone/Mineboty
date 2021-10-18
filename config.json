@@ -1,0 +1,36 @@
+{
+    "user":{
+        "username":"herobine.tk",
+        "pass":""
+    },
+
+    "server":{
+        "address":"herobine.tk",
+        "port":25565
+    },
+
+    "keyword":{
+        "name" :
+        [
+            "katyty"
+        ],
+
+        "sleep" :
+        [
+            "sleep",
+            "Sleep"
+        ],
+       "joinbw" : [
+ "joinbw",
+ "joinbw"
+        ]
+    },
+
+    "message":{
+        "online":"Hello I'm a bot, tell me to sleep and I'll reconnect so you can sleep.",
+        "afk":"This is my bot, I'm not there I'll be back later.",
+        "sleep":"Alright, I'll be back !",
+        "greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day.",
+        "joinbw": "/bw join Squad"
+    }
+}
