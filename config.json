@@ -1,12 +1,12 @@
 {
     "user":{
-        "username":"herobine.tk",
-        "pass":""
+        "username":"pfmc",
+        "pass":"123"
     },
 
     "server":{
-        "address":"herobine.tk",
-        "port":25565
+        "address":"PhoenixForceMC.aternos.me:32076",
+        "port":32076
     },
 
     "keyword":{
